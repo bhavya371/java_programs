@@ -2,7 +2,7 @@
 
 This repository contains **four Java programs** designed to practice and demonstrate core programming concepts such as Object-Oriented Programming (OOP), loops, conditionals, arrays, and maps.
 
- ## Programs Overview
+## Programs Overview
 
 1. Calculator Using Class
 A simple calculator built using a Java class that performs:
