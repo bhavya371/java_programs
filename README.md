@@ -39,5 +39,5 @@ Counts how many numbers in a list are **multiples of each number from 1 to 9**.
 **Concepts Used:** Arrays, maps, loops, modulo operation.
 
 ## Technologies Used
-- **Language:** Java 8+
+- **Language:** Java
 - **Concepts:** OOP, loops, conditional statements, arrays, maps.
