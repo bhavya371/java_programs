@@ -1,4 +1,4 @@
-# Bhavya_sree_Uppaluru
+# java_programs 
 
 This repository contains **four Java programs** designed to practice and demonstrate core programming concepts such as Object-Oriented Programming (OOP), loops, conditionals, arrays, and maps.
 
